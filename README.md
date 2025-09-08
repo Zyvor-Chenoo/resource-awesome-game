@@ -1,4 +1,4 @@
-##This is 
+### This is a pros and cons list by jonas Wilmot for Intro to Video game programming, going over 10 tools for game developers, with links to the sites.
 
 # Godot https://godotengine.org  
 ## Pros
