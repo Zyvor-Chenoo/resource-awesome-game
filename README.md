@@ -1,4 +1,4 @@
-### This is a pros and cons list by jonas Wilmot for Intro to Video game programming, going over 10 tools for game developers, with links to the sites.
+### This is a pros and cons list by jonas Wilmot for Intro to Video game programming, going over 10 tools for game developers, with links to the sites. This also has jobs descriptionsrelating to video games.
 
 # Godot https://godotengine.org  
 ## Pros
@@ -131,3 +131,54 @@
 ## Cons
 ### •	Uses their own language
 ### •	Made only for Visual novel and life sim games.
+
+# 1.	Game Programming
+### The process of creating and implementing code that runs games. You would use programming languages to make the games mechanics, physics, AI, and functionality. 
+
+## i.	Gameplay programming
+
+### Job titles: Gameplay Programming, lead gameplay programming, Senior gameplay programmer, and gameplay engineer.
+### Required skills: Understanding coding languages, communication, and problem-solving.
+### Responsibilities: Coding the games functions, rules, and how the elements are interacted with, creating the designers’ vision into a playable experience, and fix issues that would cause the game to not play properly. 
+
+
+## ii.	Multiplayer programming
+
+### Job titles: backend/server programmer, network programmer, multiplayer gameplay programmer, and Online engineer.
+### Required skills: Understanding the programming languages that will be used, knowing how the framework works, knowledge of databases, and communication skills.
+### Responsibilities: designing, developing, and maintaining the network for online games, keeping all the machines synced in real-time, and making sure that bugs do not occur.
+
+## iii.	Graphics programming
+
+### Job titles: Graphics programmer, Graphics engineer, rendering engineer, and technical artist.
+### Required skills: very good at math, great knowledge of programming languages, and Communication.
+### Responsibilities: Making the game look as detailed as possible without making the game slower or unplayable. Make sure that there are no graphical errors.
+
+## iv.	UI programming
+
+### Job titles: UI programmer, UI engineer, technical artist, and technical UI programmer.
+### Required skills: Know how to create spatial UI to solve interaction challenges, problem-solving skills, and Communication.
+### Responsibilities: Create UX flows and UI designs, work with 2D/3D software packages to create clear designs and game-ready assets, collaborate with tools and engine teams to improve upon custom workflows and technology.
+
+## v.	Build & release programming
+
+### Job titles: Build and release engineer, release manager, DevOps engineer, and Automation engineer.
+### Required skills: Knowledge of version control systems, understanding of config management tools, and proficiency in build & release troubleshooting and debugging.
+### Responsibilities: Assist in scripting efforts, automate testing to ensure secure and compliant systems, collaborate with dev teams to define build requirements, and coordinate and manage software releases and hotfixes.
+
+# 2.	Quality Assurance
+
+## The testing and evaluating of the game to make sure that it meets the desired quality standards and does not have any bugs and errors. QA testers would play the game repeatedly to test the different parts of the game. Gameplay, graphics, sound, and UI. They report any bugs and issues they find to the dev team and work with them to resolve the issues.
+
+# 3.	IT 
+
+## Support the dev, operation, and management of video games. Uses computer systems, software, and networks to manage and distribute info related to game dev, testing, maintenance, and distribution of the game to players. Ensures that systems are secure, reliable, and efficient and that they meet what the organization needs.
+
+
+# 4.	UX 
+
+## Optimizing player engagement and satisfaction by designing intuitive and enjoyable game interfaces and interactions. Studies player behaviors and preferences, making game elements like menus, controls, and feedback systems that are user-friendly and enhance the overall gaming experience. 
+
+# 5.	Game Production 
+
+## Managing the development, creation, and launch of a game. Coordinating the effort of a team of designers, artists, programmers, and other specialists to make sure that the game is finished on time and within budget. Oversee the dev process, managing team, and making key decisions to make sure the final product meets the vision and quality standards.
